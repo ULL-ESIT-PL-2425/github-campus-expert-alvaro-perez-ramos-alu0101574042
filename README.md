@@ -20,6 +20,3 @@
 ## Solicitar el GitHub Backpack
 
 ![github backpack](docs/backpack.png)
-
-## Stast de esta repo
-![Repo stats](https://github-readme-stats.vercel.app/api?username=AlvaroPerezRamos&organization=ULL-ESIT-PL-2425&repo=github-campus-expert-alvaro-perez-ramos-alu0101574042&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github&theme=neon)
