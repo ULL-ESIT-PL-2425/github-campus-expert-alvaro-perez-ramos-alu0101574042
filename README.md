@@ -20,3 +20,6 @@
 ## Solicitar el GitHub Backpack
 
 ![github backpack](docs/backpack.png)
+
+## Stast de esta repo
+![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=AlvaroPerezRamos&repo=github-campus-expert-alvaro-perez-ramos-alu0101574042&theme=dark)
