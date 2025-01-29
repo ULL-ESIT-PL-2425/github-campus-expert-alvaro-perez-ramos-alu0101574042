@@ -22,5 +22,4 @@
 ![github backpack](docs/backpack.png)
 
 ## Stast de esta repo
-![AlvaroPerezRamos's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlvaroPerezRamos&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github&theme=neon)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroPerezRamos&langs_count=20&layout=compact&theme=blue-green)
+![Repo stats](https://github-readme-stats.vercel.app/api?username=ULL-ESIT-PL-2425&repo=github-campus-expert-alvaro-perez-ramos-alu0101574042&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github&theme=neon)
